@@ -51,8 +51,36 @@
 * John Stenson's Reel
 * Tam Lin
 * Staten Island Hornpipe
-* Squirell Hunters
-* 
+* Squirrel Hunters
+* Spring in the valley
+* Spotted Pony 
+* Smash the Windows
+* Shove that pigs foot a little further into the fire
+* Shenadoah Falls
+* Say Darlin Say
+* Sandy Boys
+* Sail Away Ladies
+* Safe Harbor Rag
+* Sadie at the backdoor
+* Rakish Paddy
+* Paddy on the handcar
+* North carolina breakdown
+* New 5 Cent Piece
+* Needlecase
+* Nail that catfish to the tree
+* Midnight on the Water
+* The Kesh Jig
+* Valley Forge
+* Waiting for nancy
+* Wake Up Susan
+* Walk Along John To kansas
+* Waterbound
+* Waynesboro
+* West Folk Gals
+* Winderslide
+* Winterberry
+* Yellow Rose of Texas
+* Yew Piney Mnt
 
 ### Hard to find tabs
 * Little Maggie
