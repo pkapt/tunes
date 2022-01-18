@@ -33,3 +33,4 @@
 * Throw It Across The Road (75)
 
 # Memorizing
+* Gold Rush (https://simplymandolin.com/gold-rush/)

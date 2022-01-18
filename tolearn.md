@@ -1,9 +1,8 @@
 
 # Learning
-* Gold Rush (https://simplymandolin.com/gold-rush/)
+* Texas gales
 
 # To Learn
-* Texas gales
 * British Field march
 * Old Joe Clark
 * The Ear's Chair
