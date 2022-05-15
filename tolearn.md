@@ -1,6 +1,11 @@
 
 # Learning
 * Texas gales
+* cluck old hen
+
+
+leather britches
+big mon
 
 # To Learn
 * British Field march
