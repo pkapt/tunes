@@ -1,4 +1,18 @@
 
+# LEARNING
+* East Tennesee Blues
+
+
+
+# TO LEARN
+* Beaumont Rag
+* Lonesome Fiddle Blues
+* Lonesome Fiddle Waltz
+* Texas Gales
+* Big Mon
+* Leather Britches
+
+
 # Learning
 * Texas gales
 * cluck old hen
@@ -7,7 +21,6 @@
 leather britches
 big mon
 
-# To Learn
 * British Field march
 * Old Joe Clark
 * The Ear's Chair
@@ -86,12 +99,10 @@ big mon
 * Yellow Rose of Texas
 * Yew Piney Mnt
 
-### Hard to find tabs
-* Little Maggie
-* Salty Dog
-
 ***
 ## maybes
 
 * Cumberland Gap
 * Big Mon
+* Pan handle rag
+
