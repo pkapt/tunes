@@ -1,5 +1,3 @@
-# Tunes
-
 ## Solid
 * Saint Anne's Reel
 * Whiskey Before Breakfast*
@@ -32,7 +30,7 @@
 * Dusty Windowsills
 * Ducks on the millpond
 * Throw It Across The Road (75)
+* Gold Rush (https://simplymandolin.com/gold-rush/)
 
 
 # Memorizing
-* Gold Rush (https://simplymandolin.com/gold-rush/)
