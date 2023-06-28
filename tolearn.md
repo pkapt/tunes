@@ -1,17 +1,49 @@
-# TO LEARN
-* old dangerfield
-* Beaumont Rag
-* Lonesome Fiddle Blues
-* Lonesome Fiddle Waltz
-* Big Mon
-* Leather Britches
-* Texas gales
-* cluck old hen
-* British Field march
+# Learning
+* farewell blues
+* rebecca
+* sally goodan
+* midnight on the water
+* salt spring
+* pike county breakdown
+
+# to learn
 * Old Joe Clark
+* Texas gales
+* Banks of the Ohio
+* New 5 Cent Piece
+* Boston Boy
+* Cumberland Gap
+* Bury me beneath the willow
+* cluck old hen
+* cripple creek
+* cumberland gap
+* devils dream
+* drowsy maggie
+* going to boston
+* I'll fly away
+* Julianne Johnson 
+* June apple
+* kesh jig
+* kitchen girl
+* liza jane
+* minstrel boy
+* nail that catfish to a tree
+* nine pound hammer
+* old joe clark
+* rakes of mallow
+* red prarie dawn
+* rubber dolly 
+* sean ryans polka
+* shady grove
+* shortnin bread
+* soldiers joy
+* spotted pony
+* swallowtail jig
+* tennesee blues
+* wheel hoss
+* British Field march
 * The Ear's Chair
 * Ragtime annie  
-* Over The Waterfall
 * Fine times at our house
 * Flowers of edinborough
 * Cold frosty morning
@@ -21,13 +53,10 @@
 * Going across the sea
 * Grub Springs
 * Greasy Coat
-* Cripple Creek
-* Foggy Mt. Breakdown
 * Shuckin’ the Corn
 * Foggy Mt. Special
 * Dixie Breakdown
 * Ground Speed
-* Sally Goodin
 * Sally Ann
 * John Hardy
 * Rebecca
@@ -52,6 +81,7 @@
 * Jackie Tar Hornpipe 
 * Jeff David
 * John Stenson's Reel
+* Lonesome Fiddle Waltz
 * Tam Lin
 * Staten Island Hornpipe
 * Squirrel Hunters
@@ -68,11 +98,8 @@
 * Rakish Paddy
 * Paddy on the handcar
 * North carolina breakdown
-* New 5 Cent Piece
 * Needlecase
 * Nail that catfish to the tree
-* Midnight on the Water
-* The Kesh Jig
 * Valley Forge
 * Waiting for nancy
 * Wake Up Susan
@@ -84,5 +111,4 @@
 * Winterberry
 * Yellow Rose of Texas
 * Yew Piney Mnt
-* Cumberland Gap
 * Pan handle rag
